@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Subtle baby-blue theme tweaks (keep everything minimal) */
+:root {
+  --baby-blue: #bfe7ff;
+  --baby-blue-600: #46b6ff;
+}
+
+body {
+  background: #ffffff;
+}
+
